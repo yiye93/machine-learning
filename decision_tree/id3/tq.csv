@@ -1,0 +1,15 @@
+outlook,temperature,humidity,wind,class
+sunny,hot,high,FALSE,n
+sunny,hot,high,TRUE,n
+overcast,hot,high,FALSE,p
+rain,mild,high,FALSE,p
+rain,cool,normal,FALSE,p
+rain,cool,normal,TRUE,n
+overcast,cool,normal,TRUE,p
+sunny,mild,high,FALSE,n
+sunny,cool,normal,FALSE,p
+rain,mild,normal,FALSE,p
+sunny,mild,normal,TRUE,p
+overcast,mild,high,TRUE,p
+overcast,hot,normal,FALSE,p
+rain,mild,high,TRUE,n
